@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944322781149",
+    "project_id": "fcm4flutter-c222e",
+    "storage_bucket": "fcm4flutter-c222e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944322781149:android:f89fe220015b5c897de034",
+        "android_client_info": {
+          "package_name": "com.flutter.fcm.fcmflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoO_UcKSISoeRoE3mku59hbv5YgXfLylc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
